@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#cell1 { background-color: #ff9999; }
+#cell2 { background-color: #99ccff; }
+#cell3 { background-color: #ffcc99; }
+#cell4 { background-color: #ccff99; }
+#cell5 { background-color: #ff9999; }
+#cell6 { background-color: #99ccff; }
+#cell7 { background-color: #ffcc99; }
+#cell8 { background-color: #ccff99; }
+#cell9 { background-color: #ff9999; }
+#cell10 { background-color: #99ccff; }
+#cell11 { background-color: #ffcc99; }
+#cell12 { background-color: #ccff99; }
+#cell13 { background-color: #ff9999; }
+#cell14 { background-color: #99ccff; }
+#cell15 { background-color: #ffcc99; }
+#cell16 { background-color: #ccff99; }
